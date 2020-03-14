@@ -1,7 +1,8 @@
 # Integrate-ironSource-SDK
 Implement and init the ironSource SDK in an “Hello World” app
+
 # Getting Started 🚀
 
-1. press Initialize The SDK
-2. press
-3. press <b>Started</b> to Show Interstitial Ad
+1. press <b>Initialize</b> to initialize The SDK
+2. press<b>Load</b> to load Interstitial Ad
+3. press <b>Show</b> to show Interstitial Ad
