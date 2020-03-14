@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">IRON SOURCE</string>
+    <string name="button_send">Initialize</string>
+    <string name="edit_interstital">Interstitial</string>
+    <string name="button_load">Load</string>
+    <string name="button_show">Show</string>
+</resources>
