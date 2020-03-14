@@ -1,5 +1,5 @@
 # Integrate-ironSource-SDK
-Implement and init the ironSource SDK in an “Hello World” app
+Implement and init the ironSource SDK in an Android “Hello World” app
 
 <b>Getting Started 🚀 </b>
 
